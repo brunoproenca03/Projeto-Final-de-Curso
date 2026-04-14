@@ -18,7 +18,6 @@ O desperdício de água nos sistemas de medição representa um desafio crescent
 - **NB-IoT (Narrowband Internet of Things)**
 - **Internet das Coisas (IoT)**
 - **Cloud Computing**
-- **Machine Learning (para análise preditiva)**
 - **Plataformas de visualização de dashboards(PowerBI)**
 
 ## 🧪 Protótipo
